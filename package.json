@@ -25,10 +25,11 @@
     "stephen.deletang@shopopop.com"
   ],
   "scripts": {
+    "run": "./bin/www",
     "start": "ts-node src/index.ts",
     "test": "jest --reporters=default",
     "build": "tsc --build",
-    "version": "npm run build",
+    "prepare": "npm run build",
     "prepublishOnly": "npm run build",
     "clean": "rimraf dist",
     "lint": "ts-standard --verbose | snazzy",
