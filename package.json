@@ -28,7 +28,7 @@
     "run": "./bin/www",
     "start": "ts-node src/index.ts",
     "test": "jest --reporters=default",
-    "build": "tsc --build",
+    "build": "rimraf dist && tsc --build",
     "prepare": "npm run build",
     "prepublishOnly": "npm run build",
     "clean": "rimraf dist",
