@@ -39,6 +39,9 @@ node-app
 
 ### Summary
 
+- [Apprendre nodejs](https://github.com/stephendltg/nodebook)
+- [Apprendre typscript](https://www.typescriptlang.org/fr/)
+- [Reference javascript](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference)
 - [Documentations](docs/index.html)
 - [Git conventions](conventions.md)
 - [library & tools](tools.md)
