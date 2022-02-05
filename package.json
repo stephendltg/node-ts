@@ -22,10 +22,9 @@
     "url": "https://github.com/{repository}/issues"
   },
   "contributors": [
-    "stephen.deletang@shopopop.com"
+    "stephendltg"
   ],
   "scripts": {
-    "run": "./bin/www",
     "start": "ts-node src/index.ts",
     "test": "jest --reporters=default",
     "build": "rimraf dist && tsc --build",
@@ -40,10 +39,13 @@
     "fix": "standard-version -- --release-as minor",
     "doc": "rimraf docs && npx typedoc src/index.ts"
   },
+  "bin": {
+    "node-app": "./bin/www"
+  },
   "keywords": [
     "standard"
   ],
-  "author": "tech-shopopop <tech@shopopop.com>",
+  "author": "tech<tech@example.com>",
   "license": "ISC",
   "simple-git-hooks": {
     "pre-commit": "npx commitlint --edit $1 & npm run lint",
