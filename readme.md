@@ -45,5 +45,6 @@ node-app
 - [ECMA-262](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
 - [NPM documentation](https://docs.npmjs.com/cli/v8/commands)
 - [Package.json documentation](https://docs.npmjs.com/cli/v8/configuring-npm/package-json)
+- [Apprendre Git](https://www.atlassian.com/fr/git/tutorials/setting-up-a-repository)
 - [Git conventions](conventions.md)
 - [library & tools](tools.md)
