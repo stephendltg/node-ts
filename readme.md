@@ -23,6 +23,18 @@ Template nodejs typescript with ts-standard
 8. npm run release - Release library
 9.  npm run fix - Fix library
 
+## CLI
+
+```bash
+npm install --global .
+```
+
+**launch:**
+
+```bash
+node-cli
+```
+
 ## Docs
 
 ### Summary
