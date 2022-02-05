@@ -32,7 +32,7 @@ npm install --global .
 **launch:**
 
 ```bash
-node-cli
+node-app
 ```
 
 ## Docs
