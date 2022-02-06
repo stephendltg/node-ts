@@ -11,6 +11,11 @@
 
 Template nodejs typescript with ts-standard
 
+## Installation nodejs via nvm
+
+- [Macos/linux](https://github.com/nvm-sh/nvm) or use Makefile command: ```make nvm```
+- [Windows](https://github.com/coreybutler/nvm-windows)
+
 ## Contributing
 
 1. npm run build -  Build library.
