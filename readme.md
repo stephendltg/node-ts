@@ -37,7 +37,7 @@ npm install --global .
 **launch:**
 
 ```bash
-node-app
+node-www
 ```
 
 ## Docs
