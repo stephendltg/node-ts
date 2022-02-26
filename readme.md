@@ -28,6 +28,13 @@ Template nodejs typescript with ts-standard
 8. npm run release - Release library
 9.  npm run fix - Fix library
 
+## Production
+
+```bash
+npm i --production
+npm start
+```
+
 ## CLI
 
 ```bash
@@ -37,7 +44,7 @@ npm install --global .
 **launch:**
 
 ```bash
-node-www
+node-myapp
 ```
 
 ## Docs
