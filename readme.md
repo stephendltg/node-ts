@@ -70,7 +70,6 @@ node-myapp
 
 - [js-standard](https://marketplace.visualstudio.com/items?itemName=standard.vscode-standard)
 - [jest runner](https://marketplace.visualstudio.com/items?itemName=firsttris.vscode-jest-runner)
-- [mocha sidebar](https://marketplace.visualstudio.com/items?itemName=maty.vscode-mocha-sidebar)
 - [thunder client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
 - [git lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 - [Markdown all in one](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
